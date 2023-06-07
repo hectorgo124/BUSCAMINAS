@@ -1,0 +1,90 @@
+
+
+
+el cuadrado donde poner las minas de dificultad facil es de: 240x240
+es decir que hay que poner 8x8 minas 
+de tamaño 30x30 cada mina
+
+Posicion de la primera mina : x = 5, y = 11.
+SOBRE EL PANEL panelCasillas
+
+A partir de ahi, fer dos bucles de 8 mines x 8 files, per cada volta aumentant la posicio
+de x+30 , y al cambiar de fila, posar y+30. 
+Els botons creats els guardaré en una matriu de 8x8. 
+
+fer que els botons siguen de la clase CASILLA.
+clase CASILLA:
+un booleano en que diga si te MINA o no.
+
+
+
+
+IMPORTANT: al crear el boto tinc que aplicarli el estil del css .boton.
+
+
+-----------------------------------------------------------------------------------
+
+
+EMOJIS
+
+La image emoji estará colocada en x = 128, y = 20
+Tamany de 60x60.
+
+Aquesta image cambiarà segons el ultim click que fem, si la casilla que hem polsat
+es un numero, la cara serà la de emojiGafas.png , 
+si la casilla es una bomba, la cara serà la de emojiTriste.png.
+
+
+facil:
+layout x contadorMinas = 210
+layoutx contadorTiempo = 14
+
+
+
+-----------------------------------------------------------------------------------
+layout panelJuegoMedio = 
+x = 254
+y = 152
+
+tamany panel juego dificiltat medio:
+
+ancho panel = 480
+casilla = 30
+imagen layout x = 246
+layout x contadorMinas = 428
+layoutx contadorTiempo = 38
+
+
+
+
+layout panel juego dificil=
+x = 114
+y = 109
+
+tamany panel juego dificil
+ancho panel  = 600
+casilla = 20
+imagen layout x = 308
+layoutx contadorMinas = 548
+layoutx contadorTiempo = 38
+
+home layout x = 295, y = 115
+reset layout x = 413, y = 114
+exit layout x = 532, y = 106
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

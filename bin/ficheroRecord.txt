@@ -1,0 +1,12 @@
+facil
+núria
+34
+medio
+carlos
+80
+dificil
+jose
+170
+imposible
+arnau
+1

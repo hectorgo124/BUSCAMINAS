@@ -1,0 +1,38 @@
+.fondo {
+	
+	-fx-background-color: #cfcfcf;
+	
+}
+
+.boton {
+	-fx-background-image: url('boton.png');
+	-fx-background-size: 100% 100%;
+	-fx-font-weight: bold;
+	-FX-font-family: monospace;
+}
+
+.fondoDificultad{
+	-fx-background-image: url('fondoDificultad.png');
+	-fx-background-size: 100% 100%;
+}
+
+.contadores {
+	
+	-fx-font-family: 'monospace';
+	-fx-background-color: red;
+	-fx-border-color: black;
+	-fx-border-width: 5px;
+	
+	
+}
+
+.texto {
+	-fx-font-weight: bold;
+	-FX-font-family: monospace;	
+}
+
+.panel {
+	
+	-fx-background-image: url('panel.png');
+	-fx-background-size: 100% 100%;
+}

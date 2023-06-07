@@ -1,0 +1,35 @@
+------------------------------
+NÚRIA
+
+Victoria: NO
+Tiempo: 3
+Numero Minas restantes: 10
+Dificultad: facil
+------------------------------
+NÚRIA
+
+Victoria: NO
+Tiempo: 2
+Numero Minas restantes: 10
+Dificultad: facil
+------------------------------
+NÚRIA
+
+Victoria: NO
+Tiempo: 77
+Numero Minas restantes: 7
+Dificultad: facil
+------------------------------
+ANONIMO
+
+Victoria: NO
+Tiempo: 2
+Numero Minas restantes: 99
+Dificultad: dificil
+------------------------------
+ANONIMO
+
+Victoria: SI
+Tiempo: 33
+Numero Minas restantes: 0
+Dificultad: facil
